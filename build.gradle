@@ -21,3 +21,7 @@ jar {
 test.environment([
         "WELCOME_MESSAGE": "Hello from test",
 ])
+
+bootRun.environment([
+        "WELCOME_MESSAGE": "hello"
+])
