@@ -17,3 +17,6 @@ jar {
     version =  '0.1.0'
 }
 
+test.environment([
+        "WELCOME_MESSAGE": "Hello from test",
+])
