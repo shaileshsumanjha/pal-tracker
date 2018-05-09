@@ -16,9 +16,7 @@ dependencies {
 
 jar {
     baseName = 'pal-tracker'
-    version =  '0.1.0'
 }
-
 
 bootRun.environment([
         "WELCOME_MESSAGE": "hello"
