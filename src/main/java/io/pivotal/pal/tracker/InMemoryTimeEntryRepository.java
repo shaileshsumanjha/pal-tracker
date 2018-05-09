@@ -5,7 +5,7 @@ import java.util.*;
 
 public class InMemoryTimeEntryRepository implements TimeEntryRepository{
 
-    Map<Long,TimeEntry> listTimeEntries = new HashMap<Long, TimeEntry>();
+    private Map<Long,TimeEntry> listTimeEntries = new HashMap<Long, TimeEntry>();
 
     private TimeEntry timeEntry;
 
