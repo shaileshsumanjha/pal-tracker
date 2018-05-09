@@ -13,15 +13,17 @@ dependencies {
     compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.1")
 }
 
+
 jar {
     baseName = 'pal-tracker'
     version =  '0.1.0'
 }
 
-test.environment([
-        "WELCOME_MESSAGE": "Hello from test",
-])
 
 bootRun.environment([
         "WELCOME_MESSAGE": "hello"
+])
+
+test.environment([
+        "WELCOME_MESSAGE": "Hello from test",
 ])

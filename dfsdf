@@ -1,0 +1,83 @@
+[33mcommit 07ec483cba276b8989af00302f16610ac0cee06a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin-shailesh/master[m[33m)[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 17:32:45 2018 -0600
+
+    fixed issues
+
+[33mcommit 1397092f36465e82b7be42d1dc646cebc64c734e[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 17:16:04 2018 -0600
+
+    updated code for test
+
+[33mcommit b7b05073ae844bcf72d67447f7478e3929616019[m
+Author: Tyson Gern <tgern@pivotal.io>
+Date:   Thu Jul 20 15:04:20 2017 -0600
+
+    Add tests for MVC lab
+
+[33mcommit e0ac7e2f6efd60f318e011de5d44e7519ed03d16[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 13:47:41 2018 -0600
+
+    added random route
+
+[33mcommit 6df7658df2054c4c984096e6ed684df4c7297b9b[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 13:41:01 2018 -0600
+
+    updated manifest file for host name
+
+[33mcommit 23c911d464c7eee5d0ab7b984e5e68aabfabaa6a[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 13:28:39 2018 -0600
+
+    updated test variable in gradle
+
+[33mcommit 972848fcb601d29f185daf26f0532a8d475c3e1c[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 13:22:46 2018 -0600
+
+    updated build.yml
+
+[33mcommit f7aa8f58bcd971fb7ebf039f0e5d7c7c68710148[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 13:19:25 2018 -0600
+
+    updated build.yml
+
+[33mcommit f66db95e3651ca4ff4143835d2b3d7a3b39cca40[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 11:31:40 2018 -0600
+
+    Commit
+
+[33mcommit 34904d82012764d27612bcbad222e77d25a4d891[m
+Author: Mike Gehard <mike.gehard@gmail.com>
+Date:   Wed Jan 3 16:17:48 2018 -0700
+
+    Add deployment pipeline
+
+[33mcommit fc64983ccbd8ceb57162466cba495c06cf3dad06[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Tue May 8 09:32:50 2018 -0600
+
+    Lab complete : Deploy a Spring Boot app to Cloud Foundry
+
+[33mcommit b704dd4b7034fb01c9841728413f93ad0bf90137[m
+Author: Tyson Gern <tgern@pivotal.io>
+Date:   Thu Jul 20 13:56:50 2017 -0600
+
+    Add tests for deployment lab
+
+[33mcommit a94651aa6344ad6d15eddab69359c54e3792ea7e[m
+Author: Shailesh <shaileshsumanjha@gmail.com>
+Date:   Mon May 7 16:22:12 2018 -0600
+
+    Lab 1 complete : 7-5-18
+
+[33mcommit f1c11281dc67e5c61a5d0c66cfdb6d6aca9c1eba[m[33m ([m[1;33mtag: spring-boot-start[m[33m)[m
+Author: Tyson Gern <tgern@pivotal.io>
+Date:   Fri Jul 21 09:26:37 2017 -0600
+
+    Initial commit
